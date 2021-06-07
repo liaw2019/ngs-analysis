@@ -1,5 +1,5 @@
 # ngs-analysis
-Workflow and scripts related to WGS analysis
+Workflow and scripts related to NGS analysis
 
 This repository contains workflow and scripts relevant to some previous publications.
 
