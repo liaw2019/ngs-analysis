@@ -5,3 +5,5 @@ The plots enable comparison of the copy number variation between two whole genom
 You can select chromosomes to view, or zoom to certain chromosome regions.
 
 To view the plot in your computer, download the whole "cnv_plot" directory and run the app.R (make sure you have R studio installed with the shiny package).
+
+Alternatively, the Shiny app is also accessible here: https://ngs-explorer.shinyapps.io/Chromosome_CNV_viz/
