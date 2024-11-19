@@ -167,6 +167,11 @@ plotProfile -m h300d_allC_context.matrix --perGroup --samplesLabel CG CHG CHH -o
 
 
 # 2. Differential Methylation Analysis
+Step 1 - Download SRA
+Step 2 - FastQC
+Step 3 - Bismark and convert to bedgraph using bismark2bedGraph
+Step 4 - methylKitR to identify differentially methylated region (DMR) by Fisher exact test
+Step 5 - Export DMR as bedgraphs and analyzed for repeats using Bedtools intersect
 extract_genes.sh
 ```
 #!/bin/bash
