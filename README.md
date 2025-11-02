@@ -9,3 +9,4 @@ Liu, Y., Liaw, Y. M., Teo, C. H., Cápal, P., Wada, N., Fukui, Doležel, K., & O
 [WGS](https://github.com/liaw2019/ngs-analysis/tree/main/WGS)
 
 Liaw, Y., Liu, Y., Teo, C., Cápal, P., Wada, N., Fukui, K.,  Doležel, K., & Ohmido, N. (2021). Epigenetic Distribution of Recombinant Plant Chromosome Fragments in a Human–Arabidopsis Hybrid Cell Line. International Journal of Molecular Sciences, 22(11), 5426.
+[WGBS](https://github.com/liaw2019/ngs-analysis/tree/main/WGBS)
